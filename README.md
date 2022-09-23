@@ -6,7 +6,4 @@ This bootcamp teaches us on how to create "Chirper", which is essentially a mini
 
 Also, the bootcamp teaches us how to send "email" notification to other users when a chirp has been made. This can be seen via MailHog which catches the emails from the application for testing purposes.
 
-<<<<<<< HEAD
-=======
-The only part of the bootcamp that was not done was the deployment, which require the use of a cloud server(Linode, DO, AWS, ...) and Laravel Forge
->>>>>>> 266a1d98a4c83d9c8970f74a8a5d744197ae4d6f
+Note. The only part of the bootcamp that was not done was the deployment, which require the use of a cloud server(Linode, DO, AWS, ...) and Laravel Forge
